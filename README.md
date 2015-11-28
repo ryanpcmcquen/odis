@@ -12,3 +12,5 @@ Being a god also makes Odis a bit lazy, as such he set up *very small* shortcuts
 `odis.debounce(func, delay)` may be expressed as `odis.debo()` or just `odis.d()`. Note that the delay argument is optional and the default debounce timeout is `210`.
 
 `odis.throttle(func, delay)` may be expressed as `odis.thro()` or just `odis.t()`. Note that the delay argument is optional and the default throttle timeout is `42`.
+
+I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org/javascript/2015/11/28/writing-my-own-throttle.html).
