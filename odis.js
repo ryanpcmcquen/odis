@@ -1,4 +1,4 @@
-/* odis v0.1.0 by ryanpcmcquen */
+/* odis v0.1.1 by ryanpcmcquen */
 /*jslint browser:true, white:true*/
 /*global window*/
 
@@ -8,7 +8,8 @@
   var odis = {
     debounce: function(func, delay) {
       // set a reasonable timeout for debouncing
-      delay = delay || 250;
+      // (42 * 5), more on that later
+      delay = delay || 210;
       var funcTimeoutId;
       return function() {
         // keep clearing the function
