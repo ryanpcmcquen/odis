@@ -29,7 +29,7 @@
         if (!waiting) {
           // very similar to our debounce,
           // but the waiting var allows the
-          // call to execute multiple times
+          // function to execute multiple times
           // while being called
           waiting = true;
           clearTimeout(funcTimeoutId);
