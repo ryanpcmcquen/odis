@@ -14,3 +14,12 @@ Being a god also makes Odis a bit lazy, as such he set up *very small* shortcuts
 `odis.throttle(func, delay)` may be expressed as `odis.thro()` or just `odis.t()`. Note that the delay argument is optional and the default throttle timeout is `42`.
 
 I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org/javascript/2015/11/28/writing-my-own-throttle.html).
+
+### CDN
+
+Odis is available via RawGit CDN (`v0.1.1`):
+
+    <script src="https://cdn.rawgit.com/ryanpcmcquen/odis/13fb9597958a283b967c1be652079585f3563489/odis.min.js"></script>
+
+https://cdn.rawgit.com/ryanpcmcquen/odis/13fb9597958a283b967c1be652079585f3563489/odis.min.js
+
