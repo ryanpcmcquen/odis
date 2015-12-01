@@ -5,7 +5,7 @@ If you need `debounce` or `throttle`, Odis can help. Odis is the Latin god of mo
 
 Odis' name comes from *modularis* (modular) and *modus* (limitation). :zap:
 
-He also believes in being used internally in a project, just drop [these lines](https://github.com/ryanpcmcquen/odis/blob/master/odis.js#L8-L43) somewhere in your lib, the only downfall is that you won't have access to Odis' shortcuts, but you also won't be adding anything to the global object if you are properly wrapping your project. :tada:
+He also believes in being used internally in a project, just drop [these lines](https://github.com/ryanpcmcquen/odis/blob/master/odis.js#L8-L41) somewhere in your lib, the only downfall is that you won't have access to Odis' shortcuts, but you also won't be adding anything to the global object if you are properly wrapping your project. :tada:
 
 Like most gods, Odis hates typing. For this reason, he set up *very small* shortcuts for accessing his functions. :watch:
 
