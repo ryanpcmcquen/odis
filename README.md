@@ -17,9 +17,16 @@ I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org
 
 ### CDN
 
-Odis is available via RawGit CDN (`v1.0.0`):
+Odis is available via RawGit CDN (`v1.1.0`):
 
-    <script src="https://cdn.rawgit.com/ryanpcmcquen/odis/df0c2dd2bfe952dc42bb01989adfb45d41292d58/odis.min.js"></script>
+    <script src="https://cdn.rawgit.com/ryanpcmcquen/odis/b10e1589fbb5ac56900ca60a97933a431dc9926a/odis.min.js"></script>
 
-https://cdn.rawgit.com/ryanpcmcquen/odis/df0c2dd2bfe952dc42bb01989adfb45d41292d58/odis.min.js
+https://cdn.rawgit.com/ryanpcmcquen/odis/b10e1589fbb5ac56900ca60a97933a431dc9926a/odis.min.js
 
+### npm
+
+Add it to your project to use it today:
+
+```
+npm install --save odis
+```
