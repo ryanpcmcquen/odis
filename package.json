@@ -1,23 +1,23 @@
 {
-  "name": "odis",
-  "version": "1.1.0",
-  "description": "A super tiny debounce and throttle library.",
-  "main": "odis.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryanpcmcquen/odis.git"
-  },
-  "keywords": [
-    "debounce",
-    "throttle"
-  ],
-  "author": "Ryan P. C. McQuen",
-  "license": "GPL-2.0+",
-  "bugs": {
-    "url": "https://github.com/ryanpcmcquen/odis/issues"
-  },
-  "homepage": "https://github.com/ryanpcmcquen/odis#readme"
+    "name": "odis",
+    "version": "1.1.0",
+    "description": "A super tiny debounce and throttle library.",
+    "main": "odis.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ryanpcmcquen/odis.git"
+    },
+    "keywords": [
+        "debounce",
+        "throttle"
+    ],
+    "author": "Ryan P. C. McQuen",
+    "license": "GPL-2.0+",
+    "bugs": {
+        "url": "https://github.com/ryanpcmcquen/odis/issues"
+    },
+    "homepage": "https://github.com/ryanpcmcquen/odis#readme"
 }
