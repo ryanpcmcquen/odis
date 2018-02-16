@@ -6,7 +6,7 @@
     "use strict";
     // We will attach odis globally later.
     var odis = {
-        /* odis v1.0.0 by ryanpcmcquen */
+        /* odis v1.1.0 by ryanpcmcquen */
         debounce: function (func, delay) {
             // Set a reasonable timeout for debouncing
             // (42 * 5), more on that later.
