@@ -1,7 +1,7 @@
 // @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2-or-later
-/* odis v1.1.0 by ryanpcmcquen */
+/* odis v1.1.1 by ryanpcmcquen */
 /*jslint browser:true*/
-/*global window*/
+/*global module, window*/
 (function () {
     "use strict";
     // We will attach odis globally later.
@@ -44,7 +44,10 @@
     odis.t = odis.thro;
     odis.debo = odis.debounce;
     odis.d = odis.debo;
-    // Attach odis globally:
-    window.odis = odis;
+    try {
+        // Attach odis globally:
+        window.odis = odis;
+        module.exports = odis;
+    } catch (ignore) {}
 }());
 // @license-end
