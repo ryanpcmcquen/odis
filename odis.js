@@ -1,12 +1,12 @@
 // @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2-or-later
-/* odis v1.1.1 by ryanpcmcquen */
+/* odis v1.1.2 by ryanpcmcquen */
 /*jslint browser:true*/
 /*global module, window*/
 (function () {
     "use strict";
     // We will attach odis globally later.
     var odis = {
-        /* odis v1.1.0 by ryanpcmcquen */
+        /* odis v1.1.2 by ryanpcmcquen */
         debounce: function (func, delay) {
             // Set a reasonable timeout for debouncing
             // (42 * 5), more on that later.
