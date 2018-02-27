@@ -24,13 +24,13 @@ I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org
 
 ### CDN
 
-Odis is available via RawGit CDN (`v1.1.1`):
+Odis is available via RawGit CDN (`v1.1.2`):
 ```html
 <script
-    src="https://cdn.rawgit.com/ryanpcmcquen/odis/036dfa236cdf9cf5c812777e46ad875ba93860a0/odis.min.js"
+    src="https://cdn.rawgit.com/ryanpcmcquen/odis/6b6ff20ac218efc34139b836d19c3d0988d5c331/odis.min.js"
 ></script>
 ```
-https://cdn.rawgit.com/ryanpcmcquen/odis/036dfa236cdf9cf5c812777e46ad875ba93860a0/odis.min.js
+https://cdn.rawgit.com/ryanpcmcquen/odis/6b6ff20ac218efc34139b836d19c3d0988d5c331/odis.min.js
 
 ### npm
 
