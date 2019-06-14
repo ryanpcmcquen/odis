@@ -24,7 +24,7 @@ I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org
 
 ### CDN
 
-Odis is available via GitHack CDN (`v1.1.2`):
+Odis is available via the [GitHack](https://raw.githack.com/) CDN (`v1.1.2`):
 ```html
 <script
     src="https://rawcdn.githack.com/ryanpcmcquen/odis/6b6ff20ac218efc34139b836d19c3d0988d5c331/odis.min.js"
