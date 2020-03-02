@@ -1,5 +1,5 @@
 // @license magnet:?xt=urn:btih:3877d6d54b3accd4bc32f8a48bf32ebc0901502a&dn=mpl-2.0.txt MPL-v2
-/* odis v1.1.2 by ryanpcmcquen */
+/* odis v1.1.3 by ryanpcmcquen */
 /*jslint browser:true*/
 /*global module, window*/
 (function () {
