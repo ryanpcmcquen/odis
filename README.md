@@ -24,13 +24,13 @@ I wrote about the origins of `odis` in [this blog post](https://ryanpcmcquen.org
 
 ### CDN
 
-Odis is available via the [GitHack](https://raw.githack.com/) CDN (`v1.1.2`):
+Odis is available via the [GitHack](https://raw.githack.com/) CDN (`v1.1.3`):
 ```html
 <script
-    src="https://rawcdn.githack.com/ryanpcmcquen/odis/6b6ff20ac218efc34139b836d19c3d0988d5c331/odis.min.js"
+    src="https://rawcdn.githack.com/ryanpcmcquen/odis/1e4680c8a9bfa4c3b43e718b3a83446019162f9f/odis.min.js"
 ></script>
 ```
-https://rawcdn.githack.com/ryanpcmcquen/odis/6b6ff20ac218efc34139b836d19c3d0988d5c331/odis.min.js
+https://rawcdn.githack.com/ryanpcmcquen/odis/1e4680c8a9bfa4c3b43e718b3a83446019162f9f/odis.min.js
 
 ### npm
 
